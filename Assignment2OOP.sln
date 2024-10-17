@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment2OOP", "Assignment2OOP.csproj", "{8BDEE8D2-4644-4E70-A3D6-7D54C542E7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasesTest", "..\GasesTest\GasesTest.csproj", "{DE7EF415-5D3B-4707-A942-16628581BA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDEE8D2-4644-4E70-A3D6-7D54C542E7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDEE8D2-4644-4E70-A3D6-7D54C542E7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDEE8D2-4644-4E70-A3D6-7D54C542E7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDEE8D2-4644-4E70-A3D6-7D54C542E7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7EF415-5D3B-4707-A942-16628581BA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7EF415-5D3B-4707-A942-16628581BA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7EF415-5D3B-4707-A942-16628581BA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7EF415-5D3B-4707-A942-16628581BA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA250F1-F86B-42F7-9C0C-364EB1C6A5CA}
+	EndGlobalSection
+EndGlobal
